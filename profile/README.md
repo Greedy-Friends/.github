@@ -6,10 +6,10 @@
 
 ## 👥 팀원 소개
 
-| <img src="https://github.com/jihun4452.png" width="100" height="100"> | <img src="https://github.com/Glory0206.png" width="100" height="100"> | <img src="https://github.com/ehdghksahd.png" width="100" height="100"> | <img src="https://github.com/yerincho94.png" width="100" height="100"> |
-|:--:|:--:|:--:|:--:|
-| **박지훈** | **서영광** | **서동환** | **조예린** |
-| [jihun4452](https://github.com/jihun4452) | [Glory0206](https://github.com/Glory0206) | [ehdghksahd](https://github.com/ehdghksahd) | [yerincho94](https://github.com/yerincho94) |
+| <img src="https://github.com/jihun4452.png" width="100" height="100"> | <img src="https://github.com/Glory0206.png" width="100" height="100"> | <img src="https://github.com/ehdghksahd.png" width="100" height="100"> | <img src="https://github.com/yerincho94.png" width="100" height="100"> | <img src="https://github.com/So-Myoung.png" width="100" height="100"> |
+|:--:|:--:|:--:|:--:|:--:|
+| **박지훈** | **서영광** | **서동환** | **조예린** | **김소명** |
+| [jihun4452](https://github.com/jihun4452) | [Glory0206](https://github.com/Glory0206) | [ehdghksahd](https://github.com/ehdghksahd) | [yerincho94](https://github.com/yerincho94) | [So-Myoung](https://github.com/So-Myoung) |
 
 ## 📚 About
 
